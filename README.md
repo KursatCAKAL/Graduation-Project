@@ -7,6 +7,6 @@
 <br> <br> 
 <h4>Technologies that used in Project are located in poster.</h4>
 <br>
-<img src="https://github.com/KursatCAKAL/kursatcakal.github.io/blob/master/img/G_SPRING_POSTER.png">
+<img src="https://github.com/KursatCAKAL/Graduation-Project/blob/master/G_SPRING_POSTER.png">
 <h1> I will publish Project Codes after Graduation Presention 2 (Probably after 20.06.2019)
 <img src="https://github.com/KursatCAKAL/Graduation-Project/blob/master/KursatCAKAL_Graduation-Project-1_-_2019-05-04_11.24.24.png">
