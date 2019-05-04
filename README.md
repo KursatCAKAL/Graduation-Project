@@ -1,6 +1,5 @@
 # Graduation-Project
 <h3>This Repo comprises sub-modules that written in Python about Autonomous Car ;<h3>
-<br>
 <h4>-Computer Vision</h4>
 <h4>-Artificial Intelligence</h4>
 <h4>-Control Systems</h4>
