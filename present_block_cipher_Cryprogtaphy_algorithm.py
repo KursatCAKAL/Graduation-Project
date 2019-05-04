@@ -35,7 +35,7 @@ class Present:
         return 8
 
 
-#        0   1   2   3   4   5   6   7   8   9   a   b   c   d   e   f
+
 Sbox = [0xc, 0x5, 0x6, 0xb, 0x9, 0x0, 0xa, 0xd, 0x3, 0xe, 0xf, 0x8, 0x4, 0x7, 0x1, 0x2]
 Sbox_inv = [Sbox.index(x) for x in range(16)]
 PBox = [0, 16, 32, 48, 1, 17, 33, 49, 2, 18, 34, 50, 3, 19, 35, 51,
