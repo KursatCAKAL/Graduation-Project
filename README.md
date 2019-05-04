@@ -1,6 +1,6 @@
 # Graduation-Project
 This Repo comprises sub-modules that written in Python about Autonomous Car ;
-<img src="https://github.com/KursatCAKAL/kursatcakal.github.io/blob/master/img/G_SPRING_POSTER.png">
+
 <br> <br> 
 <h1>-Computer Vision</h1>
 <h1>-Artificial Intelligence</h1>
@@ -8,3 +8,5 @@ This Repo comprises sub-modules that written in Python about Autonomous Car ;
 <h1>-Remote Keyless Authentication</h1>
 <br> <br> 
 Technologies that used in Project are located in poster.
+<br>
+<img src="https://github.com/KursatCAKAL/kursatcakal.github.io/blob/master/img/G_SPRING_POSTER.png">
