@@ -1,11 +1,10 @@
 # Graduation-Project
-<h2>This Repo comprises sub-modules that written in Python about Autonomous Car ;<h2>
-
-<br> <br> 
-<h3>-Computer Vision</h3>
-<h3>-Artificial Intelligence</h3>
-<h3>-Control Systems</h3>
-<h3>-Remote Keyless Authentication</h3>
+<h3>This Repo comprises sub-modules that written in Python about Autonomous Car ;<h3>
+<br>
+<h4>-Computer Vision</h4>
+<h4>-Artificial Intelligence</h4>
+<h4>-Control Systems</h4>
+<h4>-Remote Keyless Authentication</h4>
 <br> <br> 
 Technologies that used in Project are located in poster.
 <br>
