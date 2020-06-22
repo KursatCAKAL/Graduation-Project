@@ -136,8 +136,6 @@ def _test():
 if __name__ == "__main__":
     _test()
     key = '10000000000000000000'.decode('hex')
-    #test3=binascii.unhexlify(b'hello')
-	  #print(test3)
     plain = '11'.replace(' ', '').decode('hex')
 	  #print(plain)
     cipher = Present(key)
