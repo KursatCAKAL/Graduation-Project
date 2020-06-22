@@ -12,8 +12,5 @@
 <img src="https://github.com/KursatCAKAL/Graduation-Project/blob/master/G_SPRING_POSTER.png">
 <h1> I will publish Project Codes after Graduation Presention 2 (Probably after 20.06.2019)
 <img src="https://github.com/KursatCAKAL/Graduation-Project/blob/master/KursatCAKAL_Graduation-Project-1_-_2019-05-04_11.24.24.png">
-  
-  <a style="color:red"; href="https://kursatc.github.io/GraduationFinalProject.html">
-    Go to Final Blog Post:
-  </a>
+<a href="https://kursatc.github.io/GraduationFinalProject.html"; style="color:red";>Go to Final Blog Post</a>
 
